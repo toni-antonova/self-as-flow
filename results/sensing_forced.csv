@@ -1,0 +1,4 @@
+environment,early_cost,early_cost_low,early_cost_high,late_cost,late_cost_low,late_cost_high,late_minus_early_cost,late_minus_early_cost_low,late_minus_early_cost_high
+novice_self,0.00094,0.00009,0.00176,0.08953,0.08845,0.09060,0.08859,0.08761,0.08964
+novice_world,0.15662,0.15513,0.15815,-0.02834,-0.02869,-0.02799,-0.18496,-0.18650,-0.18352
+balanced,0.04869,0.04775,0.04972,0.02197,0.02142,0.02256,-0.02672,-0.02755,-0.02598

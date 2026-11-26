@@ -1,0 +1,3 @@
+faster_drift,mean_precision_ratio,lower_95,upper_95
+Actuator gain,0.622,0.611,0.632
+Environmental offset,2.862,2.818,2.904

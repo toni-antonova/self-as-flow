@@ -1,0 +1,18 @@
+condition,comparison,measure,mean,lower_95,upper_95,exact_observer
+Larger motor changes,,Transfer to B,0.520,0.503,0.537,0.444
+Larger motor changes,,Object-specific response,0.00009,-0.00008,0.00027,0.111
+Larger motor changes,,Total response on A,0.520,0.503,0.537,0.556
+Larger object changes,,Transfer to B,0.129,0.118,0.140,0.111
+Larger object changes,,Object-specific response,0.459,0.447,0.470,0.444
+Larger object changes,,Total response on A,0.581,0.566,0.597,0.556
+Equal uncertainty,,Transfer to B,0.252,0.238,0.266,0.250
+Equal uncertainty,,Object-specific response,0.284,0.273,0.296,0.250
+Equal uncertainty,,Total response on A,0.539,0.524,0.553,0.500
+Both priors loosened,,Transfer to B,0.145,0.132,0.158,0.143
+Both priors loosened,,Object-specific response,0.570,0.556,0.584,0.571
+Both priors loosened,,Total response on A,0.719,0.705,0.733,0.714
+Larger motor changes,,Response on B at zero command,0.058,0.043,0.074,
+Larger motor changes,Larger object changes,Transfer to B,0.391,0.370,0.411,
+Larger object changes,Larger motor changes,Object-specific response,0.459,0.447,0.470,
+Both priors loosened,Larger object changes,Transfer to B,0.016,-0.002,0.033,0.032
+Both priors loosened,Larger object changes,Object-specific response,0.111,0.093,0.130,

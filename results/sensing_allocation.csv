@@ -1,0 +1,4 @@
+environment,early_fraction,early_fraction_low,early_fraction_high,late_fraction,late_fraction_low,late_fraction_high,free_error,even_error,reduction_percent,error_reduction,error_reduction_low,error_reduction_high
+novice_self,0.687,0.684,0.690,0.126,0.120,0.131,0.27760,0.30350,8.53,0.02590,0.02516,0.02666
+novice_world,0.325,0.322,0.328,0.897,0.893,0.901,0.28085,0.31030,9.49,0.02945,0.02893,0.02990
+balanced,0.510,0.508,0.512,0.502,0.499,0.506,0.22393,0.22397,0.02,0.000043,0.000014,0.000074

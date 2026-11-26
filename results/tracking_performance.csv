@@ -1,0 +1,11 @@
+regime,controller,cost_times_1000,cost_lower_95,cost_upper_95,gap_closed_percent,gap_lower_95,gap_upper_95,winning_bank_reduction_percent_of_fixed_cost
+Alternating,Best fixed,28.825,28.755,28.892,0,,,
+Alternating,Reification ratio,28.609,28.539,28.677,20.0,19.0,21.1,0.75
+Alternating,Learning rate,28.838,28.768,28.906,-1.2,-2.0,-0.5,
+Alternating,Both,28.758,28.688,28.825,6.2,5.0,7.5,
+Alternating,Ideal observer,27.746,27.680,27.809,100,,,
+Lockstep,Best fixed,28.632,28.561,28.700,0,,,
+Lockstep,Reification ratio,28.750,28.677,28.820,-13.6,-14.5,-12.8,
+Lockstep,Learning rate,28.443,28.373,28.509,21.9,20.8,23.0,0.66
+Lockstep,Both,28.684,28.614,28.753,-6.1,-7.7,-4.5,
+Lockstep,Ideal observer,27.768,27.703,27.832,100,,,
